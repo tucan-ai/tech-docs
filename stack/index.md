@@ -1,14 +1,40 @@
 [![Tucan.ai](https://static.rect.ag/assets/img/tucan%40426.png)](https://tucan.ai/)
 
 
-#Technical Documents
+# Our Stack
 
-Hi there!
+So you are interested to find out what things we use in our stack?
 
-So you are interested in [Tucan.ai](https://tucan.ai/) and want to get technical?
-Then you came to the right place!
+Take a look ...
 
-## Content
+## Front End
 
- * [Our stack](/stack/index.md)
- 
+### General
+
+Layer | Tech | Link
+------------ | ------------- | -------------
+7 | __Application:__ | 
+6 | __Presentation:__ | 
+5 | __Session:__ | 
+4 | __Transport:__ | 
+3 | __Network:__ | 
+2 | __Data Link:__ | 
+1 | __Physical:__ | 
+
+### Libraries
+
+## Back End
+
+### General
+
+Layer | Tech | Link
+------------ | ------------- | -------------
+7 | __Application:__ | 
+6 | __Presentation:__ | 
+5 | __Session:__ | 
+4 | __Transport:__ | 
+3 | __Network:__ | 
+2 | __Data Link:__ | 
+1 | __Physical:__ | 
+
+### Libraries
