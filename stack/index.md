@@ -17,7 +17,7 @@ Take a look ...
  __[Sendgrid](https://sendgrid.com/)__ | Email
  __[Sentry](https://sentry.io/)__ | Log
  __[TypeScript](https://www.typescriptlang.org/)__ | Our front end / application language
- __[Yarn](https://yarnpkg.com/)__ | Builind things
+ __[Yarn](https://yarnpkg.com/)__ | Building things
  __[GitLab](https://gitlab.com/)__ | A place to put our work
  __[Kaldi](https://kaldi-asr.org/)__ | All the words
  __[CoreNLP](https://stanfordnlp.github.io/CoreNLP)__ | The big words
